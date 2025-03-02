@@ -11,14 +11,12 @@
             "id": "74cf17cec6dd8534",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Microservices/_Project Template.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250223235902.png"
               },
-              "icon": "lucide-file",
-              "title": "_Project Template"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250223235902"
             }
           }
         ]
@@ -170,12 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53f300c36097514b",
+  "active": "74cf17cec6dd8534",
   "lastOpenFiles": [
-    "2025-02-28.md",
+    "TODO.md",
+    "Google.md",
+    "TOTD.md",
     "Microservices/_Project Template.md",
-    "templater/Project Template.md",
     "Microservices/gRPC.md",
+    "templater/Project Template.md",
+    "2025-02-28.md",
     "Pasted image 20250223235902.png",
     "templater",
     "Welcome.md",
