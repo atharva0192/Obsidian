@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Google.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Google"
             }
           }
         ]
@@ -161,22 +161,22 @@
   },
   "active": "8d65f3222f8fd0b3",
   "lastOpenFiles": [
-    "Weekly.md",
-    "TODO.md",
-    "Microservices/gRPC.md",
+    "2024-09-24.md",
+    "Google.md",
+    "Daily Tasks.md",
+    "December.md",
     "Diwali.md",
-    "templater/Project Template.md",
-    "Welcome.md",
     "Pasted image 20250223235902.png",
+    "TODO.md",
+    "Weekly.md",
+    "Welcome.md",
+    "Short Term 10 days.md",
+    "Microservices/gRPC.md",
+    "templater/Project Template.md",
     "Microservices/_Project Template.md",
     "templater",
     "Microservices",
-    "Google.md",
     "TOTD.md",
-    "December.md",
-    "Daily Tasks.md",
-    "Short Term 10 days.md",
-    "2024-09-24.md",
     "2024-09-06.md",
     "To do.md"
   ]
