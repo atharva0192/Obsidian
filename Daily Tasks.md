@@ -1,0 +1,8 @@
+- [ ] Go 30min
+- [ ] ASQ 30min
+- [ ] AI ML 30min
+- [ ] DSA x1 Lab/Class 
+- [ ] Codeforces x1 Lab/Class
+- [ ] GYM/Tennis x1
+- [ ] Daily Courses 30min 
+- [ ] Book 15min

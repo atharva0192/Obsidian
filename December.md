@@ -1,0 +1,11 @@
+- https://youtu.be/qwHc-YqK3qw?si=BigLKIdMe3clA1R6 Drills 30 min
+- Tennis 1hr
+- Gym 1hr
+- Food
+- Driving Licence 1hr
+- Guardian 2hrs
+- Expert 2hrs
+- GO Project 2hrs
+- ML Project / Competition 
+- Socially Active 
+- Book 30 min 
